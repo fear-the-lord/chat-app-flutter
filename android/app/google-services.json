@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "809396297492",
+    "firebase_url": "https://flash-chat-537ef.firebaseio.com",
+    "project_id": "flash-chat-537ef",
+    "storage_bucket": "flash-chat-537ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809396297492:android:e31dced2cb48daaf606c01",
+        "android_client_info": {
+          "package_name": "co.SouvikGhosh.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809396297492-56g9hcdbe1me7u7801pggm7p8mnvj3ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4bcDF8L57i5t-_IvMIC1fYwSDxgaulzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809396297492-56g9hcdbe1me7u7801pggm7p8mnvj3ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
